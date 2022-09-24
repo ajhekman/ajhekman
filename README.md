@@ -1,8 +1,6 @@
 ### About me
 👋 Hi, I’m @ajhekman.  
 
-I build software for humans at [@mhs](https://github.com/mhs)  
-
 
 ### Encryption keys  
 _please do not send unsolicited encrypted messages_  
